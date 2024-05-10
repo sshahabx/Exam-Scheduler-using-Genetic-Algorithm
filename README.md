@@ -6,3 +6,6 @@ The best schedule is stored in a new csv file.
 
 To run this unzip these files in the same folder and then execute it in a jupyter  notebook or copy the code written in the notebook file and run it in VScode.
 Libraries used : pandas and numpy
+
+
+You can edit the number of generations and population size from the arguments passed in the genetic algorithm function.
