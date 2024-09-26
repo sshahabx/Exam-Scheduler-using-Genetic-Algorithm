@@ -1,4 +1,4 @@
-# Exam-Schedular-using-Genetic-Algorithm
+# Exam-Scheduler-using-Genetic-Algorithm
 
 This program employs genetic algorithm which is an evolutionary algorithm to generate a best schedule using the data provided in the four csv files.
 Their are five hard constraints which the code has to fullfill, if a schedule generated in a population does not fulfill this then its fitness score is deducted.
